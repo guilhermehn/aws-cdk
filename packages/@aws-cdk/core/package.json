@@ -152,7 +152,7 @@
     "cdk-build-tools": "999.0.0",
     "cfn2ts": "999.0.0",
     "fast-check": "^1.22.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "nodeunit": "^0.11.3",
     "pkglint": "999.0.0"
   },
